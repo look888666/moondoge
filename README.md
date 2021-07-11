@@ -1,5 +1,5 @@
-Moon Doge是一个100%的社区项目
+Moon Doge is a 100% community project
 
-它由 DOGE 和 BTC 爱好者联合发起，是目的使 DOGE 和其 BTC 达成成功，收获丰厚。
+It was jointly initiated by DOGE and BTC enthusiasts, with the purpose of making DOGE and its BTC a success and a rewarding experience.
 
-Moon Doge在币安智能链发布，在产出和通缩合约的下一个触发：您获得的奖励是代币而不是BNB。
+Moon Doge is released on the Binance Smart Chain, which is triggered by the next output and deflationary contract: the reward you get is tokens instead of BNB.
